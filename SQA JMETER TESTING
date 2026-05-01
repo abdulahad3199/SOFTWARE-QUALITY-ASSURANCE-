@@ -1,0 +1,19 @@
+Objective:
+To evaluate system performance under load using Apache JMeter.
+Test Environment:
+Tool: Apache JMeter
+Operating System: Windows
+Users: 50 virtual users
+Test Scenario:
+The homepage of example.com was tested with 50 users using HTTP request.
+Metrics Observed:
+Average Response Time: 300 ms
+Error Rate: 0%
+Throughput: Stable
+Observations:
+The system handled all requests successfully without any errors. Response time
+remained stable.
+Conclusion:
+The application performs well under normal load conditions.
+Recommendations:
+Further testing can be done with higher number of users for stress testing.
